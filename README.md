@@ -1,2 +1,21 @@
 # youtube-downloader
-YouTube Downloader is a simple command-line tool in Python that lets you download YouTube videos easily using the yt-dlp library. Just enter the video URL, and the script will save the video in the best available quality for offline viewing. Ideal for downloading educational content, tutorials, or entertainment videos.
+
+**youtube-downloader** is a Python command-line tool that allows you to download YouTube videos easily using the `yt-dlp` library. Save your favorite videos for offline viewing in the best available quality!
+
+## Features
+
+- Download videos in the best quality.
+- Simple command-line interface.
+
+## Requirements
+
+- Python 3.x
+- `yt-dlp` library
+
+## Installation
+
+1. Install Python from [python.org](https://www.python.org/downloads/).
+2. Install `yt-dlp`:
+
+   ```bash
+   pip install yt-dlp
